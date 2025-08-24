@@ -7,18 +7,18 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 
 ### 📌 Sobre mim
 
-- 👩‍💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC Albert Einstein  
-- 🎓 Estudante do 3º ano do **Ensino Médio Técnico**  
-- 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**  
-- 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais  
-- 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais  
-- 🌐 Atualmente cursando **Desenvolvimento Web com Python** no curso PROPROFISSÃO do Instituto PROA  
+- 👩‍💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC Albert Einstein.  
+- 🎓 Estudante do 3º ano do **Ensino Médio Técnico**.  
+- 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**. 
+- 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais.  
+- 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais.  
+- 🌐 Atualmente cursando **Desenvolvimento Web com Python** no curso PROPROFISSÃO do Instituto PROA.  
 
 ---
 
 ### 🛠 Tecnologias & Linguagens
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
