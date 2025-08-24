@@ -12,7 +12,7 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 - 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**.  
 - 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais.  
 - 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais.
-- 💻 Atualmente cursando Desenvolvimento Web com Python no curso Profissão do Instituto PROA.
+- 💻 Atualmente cursando Desenvolvimento Web com Python no curso PROPROFISSÃO do Instituto PROA.
   
 
 ---
