@@ -7,12 +7,12 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 
 ### 📌 Sobre mim
 
-- 👩‍💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC  
-- 🎓 Estudante do 3º ano do **Ensino Médio Técnico**  
-- 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**  
-- 🌱 Sempre explorando novas tecnologias e aplicando conhecimentos em projetos práticos  
-- 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais  
-- 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais  
+- 👩‍💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC.
+- 🎓 Estudante do 3º ano do **Ensino Médio Técnico**.
+- 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**.  
+- 🌱 Sempre explorando novas tecnologias e aplicando conhecimentos em projetos práticos.  
+- 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais.  
+- 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais.  
 
 ---
 
@@ -22,7 +22,6 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Larissasantos2/LarissaSantos2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Larissasantos2/Larissasantos2/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Larissasantos2/Larissasantos2/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 ---
@@ -36,8 +35,8 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 
 ### 🌐 Contato
 
-- 📧 Email: larissaoliv13095@gmail.com  
-- 💼 LinkedIn: [LarissaSantos2](https://www.linkedin.com/in/larissaolivsantos07)
+- 📧 Email: larissaoliv1395@gmail.com  
+- 💼 LinkedIn: [Larissa Oliveira](https://www.linkedin.com/in/larissaolivsantos07)
 
 
 <!--
