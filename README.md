@@ -54,26 +54,9 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 ### 🌐 Contato
 
 <p align="center">
-  <table cellpadding="0" cellspacing="0" style="margin: 0 auto;">
-    <tr>
-      <td>
-        <a href="mailto:larissaoliv1395@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-%230D0D0D?style=for-the-badge&logo=gmail&logoColor=%23A855F7" alt="Email">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/larissaolivsantos07" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230D0D0D?style=for-the-badge&logo=linkedin&logoColor=%23A855F7" alt="LinkedIn">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LarissaSantos2" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%230D0D0D?style=for-the-badge&logo=github&logoColor=%23A855F7" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-  </table>
+<a href="mailto:larissaoliv1395@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%230D0D0D?style=for-the-badge&logo=gmail&logoColor=purple" alt="Email"></a><a href="https://www.linkedin.com/in/larissaolivsantos07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230D0D0D?style=for-the-badge&logo=linkedin&logoColor=purple" alt="LinkedIn"></a><a href="https://github.com/LarissaSantos2" target="_blank"><img src="https://img.shields.io/badge/GitHub-%230D0D0D?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub"></a>
 </p>
+
 
 
 
