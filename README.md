@@ -1,14 +1,13 @@
 ## 💜 Olá, eu sou a Larissa!
 
 Desenvolvedora em formação, apaixonada por tecnologia e por transformar dados em insights que fazem a diferença.  
-Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artificial, SQL e Business Intelligence**, aplicando esses conhecimentos em projetos reais.
+Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artificial, SQL e Business Intelligence**.
 
 ---
 
 ### 📌 Sobre mim
 
-- 👩‍💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC Albert Einstein.  
-- 🎓 Estudante do 3º ano do **Ensino Médio Técnico**.  
+- 👩‍💻 Estudante do Técnico em **Desenvolvimento de Sistemas** na ETEC Albert Einstein.  
 - 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**. 
 - 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais.  
 - 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais.  
