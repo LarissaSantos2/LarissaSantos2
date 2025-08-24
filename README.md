@@ -1,18 +1,19 @@
 ## 💜 Olá, eu sou a Larissa!
 
-Desenvolvedora em formação, apaixonada por tecnologia e por transformar informações em insights que fazem a diferença.  
+Desenvolvedora em formação, apaixonada por tecnologia e por transformar dados em insights que fazem a diferença.  
 Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artificial, SQL e Business Intelligence**, aplicando esses conhecimentos em projetos reais.
 
 ---
 
 ### 📌 Sobre mim
 
-- 👩‍💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC.
+- 👩‍💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC Albert Einstein.
 - 🎓 Estudante do 3º ano do **Ensino Médio Técnico**.
 - 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**.  
-- 🌱 Sempre explorando novas tecnologias e aplicando conhecimentos em projetos práticos.  
 - 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais.  
-- 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais.  
+- 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais.
+- 💻 Atualmente cursando Desenvolvimento Web com Python no curso Profissão do Instituto PROA.
+  
 
 ---
 
