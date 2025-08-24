@@ -45,9 +45,10 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Larissa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LarissaSantos2&show_icons=true&theme=default&title_color=800080&text_color=FFFFFF&icon_color=800080&bg_color=0D0D0D&border_color=800080"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaSantos2&layout=compact&theme=default&title_color=800080&text_color=FFFFFF&icon_color=800080&bg_color=0D0D0D&border_color=800080"/>
+  <img alt="Larissa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LarissaSantos2&show_icons=true&theme=default&title_color=800080&text_color=FFFFFF&icon_color=800080&bg_color=1A001A&border_color=800080"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaSantos2&layout=compact&theme=default&title_color=800080&text_color=FFFFFF&icon_color=800080&bg_color=1A001A&border_color=800080"/>
 </p>
+
 
 
 
