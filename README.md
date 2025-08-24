@@ -53,17 +53,8 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 
 ### 🌐 Contato
 
-<p align="center">
-  <a href="mailto:larissaoliv1395@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/larissaolivsantos07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=purple" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/LarissaSantos2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
-  </a>
-</p>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:larissaoliv1395@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/larissaolivsantos07)
 
 
 
