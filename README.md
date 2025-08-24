@@ -20,6 +20,7 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 
 ![snake gif](https://github.com/LarissaSantos2/LarissaSantos2/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 ### 📊 GitHub Stats
