@@ -69,3 +69,4 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 
 
 
+
