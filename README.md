@@ -18,7 +18,10 @@ Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artifici
 
 ### 🐍 Contribuições recentes
 
-![snake gif](https://github.com/LarissaSantos2/LarissaSantos2/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Larissasantos2/LarissaSantos2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Larissasantos2/Larissasantos2/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Larissasantos2/Larissasantos2/output/github-contribution-grid-snake.svg">
 
 
 ---
