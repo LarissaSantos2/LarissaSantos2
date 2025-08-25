@@ -1,7 +1,6 @@
 ## 💜 Olá, eu sou a Larissa!
 
-Desenvolvedora em formação, apaixonada por tecnologia e por transformar dados em insights que fazem a diferença.  
-Tenho dedicado meus estudos a **Python, Machine Learning, Inteligência Artificial, SQL e Business Intelligence**.
+Tenho dedicado meus estudos em **Python, Machine Learning, Inteligência Artificial, SQL e Business Intelligence**.
 
 ---
 
