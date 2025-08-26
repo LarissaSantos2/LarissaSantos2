@@ -26,7 +26,7 @@ Tenho dedicado meus estudos em **Python, Machine Learning, Inteligência Artific
 
 ---
 
-### 🛠 Tecnologias & Linguagens
+### 🛠 Tecnologias & Linguagens de Estudo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
