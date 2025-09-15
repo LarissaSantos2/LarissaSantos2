@@ -6,7 +6,7 @@ Tenho dedicado meus estudos em **Python, Machine Learning, Inteligência Artific
 
 ### 📌 Sobre mim
 
-- 👩‍💻 Estudante do Técnico em **Desenvolvimento de Sistemas** na ETEC Albert Einstein.  
+- 👩‍💻 Estudante do Ensino Médio Técnico em **Desenvolvimento de Sistemas** na ETEC Albert Einstein.  
 - 💻 Estudos focados em **Python, Machine Learning, IA, SQL e BI**. 
 - 📚 Desenvolvendo meu **TCC: Entrelaços**, uma plataforma para aproximar voluntários e causas sociais.  
 - 💬 Comunicativa, resiliente e motivada para aplicar meus conhecimentos em oportunidades profissionais.  
