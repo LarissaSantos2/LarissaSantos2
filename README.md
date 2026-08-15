@@ -1,6 +1,6 @@
 ## 💜 Olá, eu sou a Larissa!
 
-Tenho dedicado meus estudos em **Python, Machine Learning, Inteligência Artificial, SQL e Business Intelligence**.
+Tenho dedicado meus estudos em **Python, Inteligência Artificial, SQL e Business Intelligence**.
 
 ---
 
